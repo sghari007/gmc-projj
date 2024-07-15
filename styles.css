@@ -1,0 +1,78 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 150%;
+    float: left;
+    justify-content: space-between;
+  }  
+  li {
+    display: inline;
+  }
+body {
+    display: inline-block;
+    background-color:   #e6e6e6;
+    font-family: "lato", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 415;
+    font-style: normal;
+  text-align: center;
+}
+h1{
+  font-family: "lato", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  text-align: left;
+  font-size: 50px;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #d9d9d9; 
+  width: 100%;
+}
+tr{
+  background-color: #e6e6e6;
+}
+
+#form {
+text-align: left;
+}
+button {
+  background-color: #070113; 
+  border: none;
+  color: #d9d9d9;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+h2 {
+  font-size: 70px;
+}
+#home {
+  background-color: #e6e6e6;
+}
+#work {
+  background-color:#d9d9d9;
+}
+#resume {
+  background-color: #d9d9d9;
+}
+#about {
+  background-color: #e6e6e6;
+}
+#contact {
+  background-color:#e6e6e6 ;
+}
+footer {
+  background-color: #d9d9d9;
+}
+p {
+  font-size: 120%; 
+}
